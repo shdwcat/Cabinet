@@ -6,7 +6,7 @@
     "path": "folders/Cabinet.yy",
   },
   "resourceVersion": "1.0",
-  "name": "gumshoe",
+  "name": "Cabinet",
   "tags": [],
   "resourceType": "GMScript",
 }

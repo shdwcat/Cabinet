@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "gumshoe",
-    "path": "gumshoe.yyp",
+    "name": "Cabinet",
+    "path": "Cabinet.yyp",
   },
   "resourceVersion": "1.0",
   "name": "obj_test",
